@@ -141,6 +141,4 @@ Uploading presentation.md…]()
 
 ---
 
-## 📌 Instructions pour visualiser
-Téléchargez ce dépôt ou consultez directement sur GitHub.
 
