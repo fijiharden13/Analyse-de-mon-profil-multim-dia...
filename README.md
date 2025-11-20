@@ -2,7 +2,7 @@
 
 **Auteur :** Ibrahima Bah
 
-**Date :** JJ/MM/2025  
+**Date :** 20/11/2025  
 ---
 
 ## 📊 Diapositives (Version Markdown)
